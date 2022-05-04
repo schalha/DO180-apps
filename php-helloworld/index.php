@@ -1,4 +1,4 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "234UPDATETEST666\n";
+print "666-Hello, World! php version is " . PHP_VERSION . "\n";
 ?>
+
